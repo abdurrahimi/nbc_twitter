@@ -2,9 +2,9 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=demo.aplikasiskripsi.com;dbname=aplikasiskripsi_chandra_twitter',
-    'username' => 'aplikasiskripsi_rohim',
-    'password' => 'Lenovo2019',
+    'dsn' => 'mysql:host=localhost;dbname=twitter',
+    'username' => 'root',
+    'password' => 'Kalera!23',
     'charset' => 'utf8',
 
     // Schema cache options (for production environment)
